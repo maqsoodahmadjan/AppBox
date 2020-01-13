@@ -1,1 +1,0 @@
-// WORKAROUND: Another empty source file. Otherwise NDK build on Windows fails!
